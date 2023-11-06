@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "Question 1",
+      "content": "How mutch is 3 power 3?",
+      "field": "Mathematics",
+      "createdAt": "04-11-2023",
+      "createdBy": "Alex Alexon"
+    },
+    {
+      "id": 2,
+      "title": "Question 2",
+      "content": "What are atoms?",
+      "field": "Physics",
+      "createdBy": "Larry Tompson",
+      "createdAt": "22-05-2023"
+    },
+    {
+      "id": 3,
+      "title": "Question 3",
+      "content": "How much is 10 x 3?",
+      "field": "Mathematics",
+      "createdAt": "04-11-2023",
+      "createdBy": "Alex Alexon"
+    }
+  ]
+}
